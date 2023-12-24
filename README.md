@@ -1,4 +1,6 @@
+<div align="center">
 # Hi👋, I'm Burhan Ullah, a passionate coder exploring various technologies. 
+</div>
 <br>
 
 - 🌱 Currently learning React development
