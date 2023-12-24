@@ -1,4 +1,5 @@
-# Hi👋, I'm Burhan Ullah, a passionate coder exploring various technologies.  return
+# Hi👋, I'm Burhan Ullah, a passionate coder exploring various technologies. 
+<br>
 
 - 🌱 Currently learning React development
 - 💡 Interested in clean code and user-centric design
