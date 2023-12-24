@@ -1,5 +1,5 @@
-<div align="center">
-# Hi👋, I'm Burhan Ullah, a passionate coder exploring various technologies. 
+<div align="center" style="text-align: center; font-size: 24px; font-weight: bold;">
+   Hi👋, I'm Burhan Ullah, a passionate coder exploring various technologies. 
 </div>
 <br>
 
