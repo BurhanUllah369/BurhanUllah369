@@ -8,10 +8,10 @@
 
 <br>
 
-- 🌱 Currently learning React development
-- 💡 Interested in clean code and user-centric design
-- 🤝 Open to collaborations and discussions on tech
-- 📫 Reach me at burhanullah369@gmail.com
+🌱 Currently learning React development <br>
+💡 Interested in clean code and user-centric design <br>
+🤝 Open to collaborations and discussions on tech <br>
+📫 Reach me at burhanullah369@gmail.com <br>
 
 <br>
 
